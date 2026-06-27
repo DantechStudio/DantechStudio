@@ -1,4 +1,5 @@
-<img width="2033" height="773" alt="DantechStudio Banner" src="https://github.com/user-attachments/assets/218d830c-148f-4824-961a-0bd0a60d4987" />
+<img width="2033" height="773" alt="Dantech Studio Banner" src="https://github.com/user-attachments/assets/1d7ace1f-daef-44a9-b498-5d5508058d27" />
+
 
 ### Hi there this channel belongs to Dantech Studio
 
